@@ -1,0 +1,1 @@
+# theme_odoo_15
